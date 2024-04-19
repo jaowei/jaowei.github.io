@@ -27,7 +27,7 @@ sections:
         style: "text-align: justify; font-size: 0.8em;"
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Technical Skills
       username: admin
     design:
       columns: "2"
