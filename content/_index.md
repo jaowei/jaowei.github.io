@@ -29,10 +29,13 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+    design:
+      columns: "2"
   - block: experience
     content:
       username: admin
     design:
+      columns: "2"
       # Hugo date format
       date_format: "January 2006"
       # Education or Experience section first?
