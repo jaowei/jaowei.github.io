@@ -46,8 +46,8 @@ education:
       Course covering React JS for frontend development, Node JS for backend development. As well as data structures and algorithms in python along with computer networking and cloud development in AWS.
   - area: Accountancy
     institution: Singapore Management University (SMU)
-    date_start: August 2015
-    date_end: June 2019
+    date_start: 2015-08-01
+    date_end: 2019-05-30
 work:
   - position: Fullstack Software Engineer
     company_name: ObvioHealth
