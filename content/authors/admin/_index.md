@@ -3,7 +3,7 @@
 title: Teo Jao Wei
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Jao Wei
@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jaowei.8@gmail.com'
+    url: "mailto:jaowei.8@gmail.com"
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/jaowei
@@ -40,8 +40,8 @@ profiles:
 education:
   - area: ModularMaster in Full-Stack Development
     institution: Singapore University of Technology and Design (SUTD) Academy
-    date_start: June 2021
-    date_end: December 2021
+    date_start: 2021-06-01
+    date_end: 2021-12-31
     summary: |
       Course covering React JS for frontend development, Node JS for backend development. As well as data structures and algorithms in python along with computer networking and cloud development in AWS.
   - area: Accountancy
@@ -51,10 +51,10 @@ education:
 work:
   - position: Fullstack Software Engineer
     company_name: ObvioHealth
-    company_url: 'https://www.obviohealth.com/'
-    company_logo: ''
+    company_url: "https://www.obviohealth.com/"
+    company_logo: ""
     date_start: 2023-01-01
-    date_end: ''
+    date_end: ""
     summary: |2-
       - Develop web applications using React.JS for frontend throughout whole software delivery process from design to implementation to delivery.
       - Develop web servers in Nest JS framework (based on Node.JS) on the backend, natively in the cloud via docker and Kubernetes in an event-sourcing architecture.
@@ -64,12 +64,12 @@ work:
       - Strategise, develop, and maintain testing automation strategies to minimize manual testing effort by product managers. 
       -Coordinate daily with multiple stakeholders, such as product managers, designers, and developers across multiple functions to ensure smooth software delivery and minimize incompatibility.
       - Conducted multiple vendor assessments by conducting spikes to ensure that third party software is compatible with the company’s use cases as well as value for money. Furthermore, ensured the smooth integration of chosen software into the existing infrastructure.
-      - Continually conduct performance testing and suggest improvements to company’s infrastructure with regards to API latency and throughput, frontend loading times and responsiveness. 
+      - Continually conduct performance testing and suggest improvements to company’s infrastructure with regards to API latency and throughput, frontend loading times and responsiveness.
 
   - position: Software Engineer
     company_name: Lauretta.io
-    company_url: 'https://lauretta.io/'
-    company_logo: ''
+    company_url: "https://lauretta.io/"
+    company_logo: ""
     date_start: 2021-06-01
     date_end: 2022-12-31
     summary: |
@@ -78,11 +78,11 @@ work:
       - Co-developed in house software development kit (SDK) written in Python, that was shared among development team. This decreased duplicate code, pooled resources to improve code quality and increased project turnaround times.
       - Conducted onsite deployment of servers, including maintenance and support for clients on various security and retail related projects.
       - Continually refactor existing ReactJS analytics dashboard and NodeJS backend to fit changing client needs and improvements to AI data producers.
-  
+
   - position: Senior Analyst
     company_name: Goldman Sachs (Singapore)
-    company_url: 'https://lauretta.io/'
-    company_logo: ''
+    company_url: "https://lauretta.io/"
+    company_logo: ""
     date_start: 2019-09-01
     date_end: 2021-05-30
     summary: |
@@ -99,79 +99,79 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/python
       - name: Javascript
-        description: ''
+        description: ""
         percent: 90
         icon: devicon/javascript
       - name: Typescript
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/typescript
       - name: React
-        description: ''
+        description: ""
         percent: 90
         icon: devicon/react
       - name: Vite
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/vitejs
       - name: Jest
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/jest
       - name: NestJS
-        description: ''
+        description: ""
         percent: 90
         icon: devicon/nestjs
       - name: Node
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/nodejs
       - name: NPM
-        description: ''
+        description: ""
         percent: 90
         icon: devicon/npm
       - name: ExpressJS
-        description: ''
+        description: ""
         percent: 90
         icon: devicon/express
       - name: OpenAPI
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/openapi
       - name: MongoDB
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/mongodb
       - name: Mongoose
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/mongoose
       - name: MySQL
-        description: ''
+        description: ""
         percent: 60
         icon: devicon/mysql
       - name: Knex
-        description: ''
+        description: ""
         percent: 60
         icon: devicon/knexjs
       - name: Bash
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/bash
       - name: Grafana
-        description: ''
+        description: ""
         percent: 60
         icon: devicon/grafana
       - name: Docker
-        description: ''
+        description: ""
         percent: 60
         icon: devicon/docker
       - name: kubernetes
-        description: ''
+        description: ""
         percent: 60
         icon: devicon/kubernetes
 
@@ -180,7 +180,6 @@ languages:
     percent: 100
   - name: Chinese
     percent: 50
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
